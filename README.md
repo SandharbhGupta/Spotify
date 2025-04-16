@@ -9,9 +9,7 @@ A Spotify clone built with React JS and Tailwind CSS, showcasing a dynamic and r
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+ 
 
 ## Features
 
@@ -52,15 +50,5 @@ Check out the live demo [here](http://spotify-codewithbalaji.vercel.app).
     ```
 2. Open your browser and navigate to `http://localhost:3000`.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Acknowledgements
-
-Special thanks to the GreatStack YouTube Channel for their invaluable tutorials and guidance.
+ 
 
